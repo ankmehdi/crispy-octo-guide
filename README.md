@@ -1,2 +1,0 @@
-# crispy-octo-guide
-jeux
